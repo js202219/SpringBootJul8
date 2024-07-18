@@ -66,6 +66,7 @@ public class SpringbootApplication implements CommandLineRunner {
 
 		Book book2=new Book();
 		book2.setName("Rich Dad Poor Dad");
+		book2.setName("Rich Dad Poor Dad");
 		book2.setAuthor("Abc");
 		book2.setPages(200);
 		book2.setPrice(1001.0);
